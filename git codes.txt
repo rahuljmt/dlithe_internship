@@ -4,5 +4,5 @@ git remote add origin master "https://github.com/rahuljmt/dlithe_internship.git"
 
 //
 git add .
-git commit -m "compount interest"
-git push origin master 
+git commit -m "compount interest" 
+git push origin main 
