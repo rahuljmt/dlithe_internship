@@ -1,0 +1,8 @@
+//to add to the github account
+git init 
+git remote add origin master "https://github.com/rahuljmt/dlithe_internship.git"
+
+//
+git add .
+git commit -m "compount interest"
+git push origin master 
